@@ -102,8 +102,3 @@ head -n 3 1kgp_out/hirisplex_by_sample_refaware.csv
 HiRisPlex-S System — Walsh S et al., *Forensic Science International: Genetics* (2018).  
 1000 Genomes Project — *Nature* 526, 68–74 (2015).
 
----
-
-## 👨‍💻 Author
-Nguyễn Quốc Khánh (20235118) — SOICT @ HUST  
-For questions: <your email or GitHub link here>
